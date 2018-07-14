@@ -124,7 +124,7 @@ alert('ERROR. Refresh or try again later.')
       }
       else{
       }
-    },1500);
+    },2000);
 
 
 
